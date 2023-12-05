@@ -1,0 +1,15 @@
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\bin\Debug\net6.0\02-Digit Problem.exe
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\bin\Debug\net6.0\02-Digit Problem.deps.json
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\bin\Debug\net6.0\02-Digit Problem.runtimeconfig.json
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\bin\Debug\net6.0\02-Digit Problem.dll
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\bin\Debug\net6.0\02-Digit Problem.pdb
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.AssemblyInfo.cs
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.dll
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\refint\02-Digit Problem.dll
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.pdb
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\02-Digit Problem.genruntimeconfig.cache
+D:\Problem Solving\Level_1\phase-1-1\02-Digit Problem\02-Digit Problem\obj\Debug\net6.0\ref\02-Digit Problem.dll
