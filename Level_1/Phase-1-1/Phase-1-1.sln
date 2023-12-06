@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Digit Problem", "02-Digi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Rain", "05-Rain\05-Rain.csproj", "{35880A89-D2AF-4D69-AA71-139CAD9A78F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07- City Travel", "07- City Travel\07- City Travel.csproj", "{0DCC4CB8-EE92-4D5B-BEA0-7620A7439199}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{35880A89-D2AF-4D69-AA71-139CAD9A78F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35880A89-D2AF-4D69-AA71-139CAD9A78F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35880A89-D2AF-4D69-AA71-139CAD9A78F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCC4CB8-EE92-4D5B-BEA0-7620A7439199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCC4CB8-EE92-4D5B-BEA0-7620A7439199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCC4CB8-EE92-4D5B-BEA0-7620A7439199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCC4CB8-EE92-4D5B-BEA0-7620A7439199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
