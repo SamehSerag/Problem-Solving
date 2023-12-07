@@ -1,0 +1,15 @@
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\bin\Debug\net6.0\09- Print hackerearth.exe
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\bin\Debug\net6.0\09- Print hackerearth.deps.json
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\bin\Debug\net6.0\09- Print hackerearth.runtimeconfig.json
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\bin\Debug\net6.0\09- Print hackerearth.dll
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\bin\Debug\net6.0\09- Print hackerearth.pdb
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.AssemblyInfo.cs
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.dll
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\refint\09- Print hackerearth.dll
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.pdb
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\09- Print hackerearth.genruntimeconfig.cache
+D:\Problem Solving\Level_1\Phase-1-1\09- Print hackerearth\obj\Debug\net6.0\ref\09- Print hackerearth.dll

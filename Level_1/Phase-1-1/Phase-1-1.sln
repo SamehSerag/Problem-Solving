@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07- City Travel", "07- City
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Distribute Chocolates", "08-Distribute Chocolates\08-Distribute Chocolates.csproj", "{CF681521-D07E-4A63-81F1-566D3DA09E77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09- Print hackerearth", "09- Print hackerearth\09- Print hackerearth.csproj", "{DA9B1517-35E1-42DF-B0FE-5AC57726359B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CF681521-D07E-4A63-81F1-566D3DA09E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF681521-D07E-4A63-81F1-566D3DA09E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF681521-D07E-4A63-81F1-566D3DA09E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9B1517-35E1-42DF-B0FE-5AC57726359B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9B1517-35E1-42DF-B0FE-5AC57726359B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9B1517-35E1-42DF-B0FE-5AC57726359B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9B1517-35E1-42DF-B0FE-5AC57726359B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
