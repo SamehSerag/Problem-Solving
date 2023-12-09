@@ -1,0 +1,5 @@
+D:\Problem Solving\Level_1\Phase-1-1\11-Binary associativity\obj\Debug\net6.0\11-Binary associativity.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\Phase-1-1\11-Binary associativity\obj\Debug\net6.0\11-Binary associativity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\Phase-1-1\11-Binary associativity\obj\Debug\net6.0\11-Binary associativity.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\11-Binary associativity\obj\Debug\net6.0\11-Binary associativity.AssemblyInfo.cs
+D:\Problem Solving\Level_1\Phase-1-1\11-Binary associativity\obj\Debug\net6.0\11-Binary associativity.csproj.CoreCompileInputs.cache

@@ -21,7 +21,7 @@ namespace _10_Little_Jhool_and_psychic_powers
                 return "Good luck!";
 
             for (int i = 0; i < windowLength; i++)
-                sequenceSum += Convert.ToInt16(arrInput[i]) - zeroAscii; //
+                sequenceSum += arrInput[i] - zeroAscii; // getting int from char
 
             if (sequenceSum == 0 || sequenceSum == 6)
                 return "Sorry, sorry!";            
