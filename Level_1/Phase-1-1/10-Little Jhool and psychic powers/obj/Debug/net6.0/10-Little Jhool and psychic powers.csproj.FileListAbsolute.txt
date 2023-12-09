@@ -1,0 +1,15 @@
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\bin\Debug\net6.0\10-Little Jhool and psychic powers.exe
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\bin\Debug\net6.0\10-Little Jhool and psychic powers.deps.json
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\bin\Debug\net6.0\10-Little Jhool and psychic powers.runtimeconfig.json
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\bin\Debug\net6.0\10-Little Jhool and psychic powers.dll
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\bin\Debug\net6.0\10-Little Jhool and psychic powers.pdb
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.AssemblyInfo.cs
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.dll
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\refint\10-Little Jhool and psychic powers.dll
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.pdb
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\10-Little Jhool and psychic powers.genruntimeconfig.cache
+D:\Problem Solving\Level_1\Phase-1-1\10-Little Jhool and psychic powers\obj\Debug\net6.0\ref\10-Little Jhool and psychic powers.dll
