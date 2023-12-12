@@ -1,0 +1,15 @@
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\bin\Debug\net6.0\14-one string no trouble.exe
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\bin\Debug\net6.0\14-one string no trouble.deps.json
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\bin\Debug\net6.0\14-one string no trouble.runtimeconfig.json
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\bin\Debug\net6.0\14-one string no trouble.dll
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\bin\Debug\net6.0\14-one string no trouble.pdb
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.AssemblyInfo.cs
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.dll
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\refint\14-one string no trouble.dll
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.pdb
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\14-one string no trouble.genruntimeconfig.cache
+D:\Problem Solving\Level_1\Phase-1-1\14-one string no trouble\obj\Debug\net6.0\ref\14-one string no trouble.dll
