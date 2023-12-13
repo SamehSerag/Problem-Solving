@@ -1,0 +1,15 @@
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\bin\Debug\net6.0\15- Set numbers.exe
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\bin\Debug\net6.0\15- Set numbers.deps.json
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\bin\Debug\net6.0\15- Set numbers.runtimeconfig.json
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\bin\Debug\net6.0\15- Set numbers.dll
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\bin\Debug\net6.0\15- Set numbers.pdb
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.AssemblyInfo.cs
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.dll
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\refint\15- Set numbers.dll
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.pdb
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\15- Set numbers.genruntimeconfig.cache
+D:\Problem Solving\Level_1\Phase-1-1\15- Set numbers\obj\Debug\net6.0\ref\15- Set numbers.dll
