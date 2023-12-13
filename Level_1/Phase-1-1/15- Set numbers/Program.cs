@@ -12,7 +12,7 @@ namespace _15__Set_numbers
             for (int i = 0; i < testCases; i++)
             {
                 string k = Console.ReadLine();
-                StringBuilder kBinary = new StringBuilder("");
+                StringBuilder kBinary = new StringBuilder();
                 int kNum = int.Parse(k);
                 long maxNumberWithSetBits = 0;
 
