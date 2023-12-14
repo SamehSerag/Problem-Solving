@@ -1,0 +1,15 @@
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\bin\Debug\net6.0\16-The Great Kian.exe
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\bin\Debug\net6.0\16-The Great Kian.deps.json
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\bin\Debug\net6.0\16-The Great Kian.runtimeconfig.json
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\bin\Debug\net6.0\16-The Great Kian.dll
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\bin\Debug\net6.0\16-The Great Kian.pdb
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.csproj.AssemblyReference.cache
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.AssemblyInfoInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.AssemblyInfo.cs
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.csproj.CoreCompileInputs.cache
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.dll
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\refint\16-The Great Kian.dll
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.pdb
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\16-The Great Kian.genruntimeconfig.cache
+D:\Problem Solving\Level_1\Phase-1-1\16-The Great Kian\obj\Debug\net6.0\ref\16-The Great Kian.dll
