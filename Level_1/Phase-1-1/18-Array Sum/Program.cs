@@ -6,7 +6,15 @@ namespace _18_Array_Sum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int size = int.Parse(Console.ReadLine());
+            long[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), long.Parse);
+            long sum = 0;
+
+            for (int i = 0; i < size; i++)
+            {
+                sum+= arr[i];
+            }
+            Console.WriteLine(sum);
         }
     }
 }
